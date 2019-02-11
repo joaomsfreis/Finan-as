@@ -1,5 +1,5 @@
 # 20# **CSI477-2018-02 - Proposta de Trabalho Final**
-## *Grupo: João Marcos Soares Ferreira Reis*
+## *Aluno: João Marcos Soares Ferreira Reis*
 
 --------------
 
